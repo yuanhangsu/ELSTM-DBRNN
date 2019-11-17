@@ -34,7 +34,7 @@ Download the dataset, create a folder named data and unzip the files to it
 <img src="ELSTM.png" width="800">
 
 ## DBRNN
-<img src="DBRNN.png" width="800">
+<img src="DBRNN.png" height="800">
 
 ## Citations
 If you find this work useful, please consider citing it.
