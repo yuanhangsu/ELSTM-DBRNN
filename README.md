@@ -15,8 +15,6 @@ Download the dataset, create a folder named data and unzip the files to it
 
 ## HOW TO
 
-## HOW TO
-
 #Training
 
     ```python
