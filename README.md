@@ -31,11 +31,10 @@ Download the dataset, create a folder named data and unzip the files to it
 
 ## ELSTM
 
-![ELSTM](ELSTM.png)
-<img src="ELSTM.png" width="200">
+<img src="ELSTM.png" width="800">
 
 ## DBRNN
-![DBRNN](DBRNN.png)
+<img src="DBRNN.png" width="800">
 
 ## Citations
 If you find this work useful, please consider citing it.
