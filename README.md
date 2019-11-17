@@ -31,10 +31,10 @@ Download the dataset, create a folder named data and unzip the files to it
 
 ## ELSTM
 
-![ELSTM](ELSTM.png){:height="60%" width="60%"}
+![ELSTM](ELSTM.png&s=400)
 
 ## DBRNN
-![DBRNN](DBRNN.png){:height="30%" width="30%"}
+![DBRNN](DBRNN.png&s=400)
 
 ## Citations
 If you find this work useful, please consider citing it.
