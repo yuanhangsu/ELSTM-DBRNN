@@ -16,17 +16,19 @@ Download the dataset, create a folder named data and unzip the files to it
 ## HOW TO
 
 #Training
-	```
-	python generate_sequence.py --mode=train
-	```
+
+    ```python
+    generate_sequence.py --mode=train
+    ```
 
 #Testing
-	```
-	python generate_sequence.py --mode=inference
+
+	```python 
+	generate_sequence.py --mode=inference
 	```
 
-![ELSTM](https://alterzero.github.io/projects/RBPN.png)
-![DBRNN]()
+![ELSTM](ELSTM.png)
+![DBRNN](DBRNN.png)
 
 ## Citations
 If you find this work useful, please consider citing it.
