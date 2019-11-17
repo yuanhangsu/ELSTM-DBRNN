@@ -15,6 +15,8 @@ Download the dataset, create a folder named data and unzip the files to it
 
 ## HOW TO
 
+## HOW TO
+
 #Training
 
     ```python
@@ -23,12 +25,16 @@ Download the dataset, create a folder named data and unzip the files to it
 
 #Testing
 
-	```python 
-	generate_sequence.py --mode=inference
-	```
+    ```python
+    generate_sequence.py --mode=inference
+    ```
 
-![ELSTM](ELSTM.png)
-![DBRNN](DBRNN.png)
+## ELSTM
+
+![ELSTM](ELSTM.png){:height="60%" width="60%"}
+
+## DBRNN
+![DBRNN](DBRNN.png){:height="30%" width="30%"}
 
 ## Citations
 If you find this work useful, please consider citing it.
