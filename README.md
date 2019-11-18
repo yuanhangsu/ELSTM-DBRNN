@@ -1,6 +1,6 @@
-# On Extended Long Short-term Memory and Dependent Bidirectional Recurrent Neural Network (Neurocomputing, vol 356, Sep. 2019, pages 151-161)
+# On Extended Long Short-term Memory and Dependent Bidirectional Recurrent Neural Network
 
-This is the official implementation of extended LSTM (ELSTM) and dependent BRNN (BRNN)
+This is the official implementation of extended LSTM (ELSTM) and dependent BRNN (BRNN) in paper: "On Extended Long Short-term Memory and Dependent Bidirectional Recurrent Neural Network"
 
 ## Dependencies
 * Python 3.6
